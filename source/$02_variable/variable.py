@@ -1,4 +1,4 @@
-x = 10;
+x = 10
 y = 'test str'
 
 print(x)
